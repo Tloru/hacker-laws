@@ -772,7 +772,7 @@ The Shirky Principle suggests that complex solutions - a company, an industry, o
 Related to:
 
 - Upton Sinclair's famous line, _"It is difficult to get a man to understand something, when his salary depends upon his not understanding it!"_
-- Clay Christensen's _The Innovator's Dilemma_
+- Clayton M. Christensen's _The Innovator's Dilemma_
 
 See also:
 
